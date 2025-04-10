@@ -1,0 +1,18 @@
+	Important Symbols
+		()	Grouping, function calls
+		[]	Lists, indexing
+		{}	Dictionaries, sets
+		:	Starts blocks (if, for, def)
+		,	Separates items
+		.	Accesses attributes/methods
+		@	Applies function decorators
+		\	Escape character
+		#	Single-line comment
+		"""	Multi-line strings/docs
+   
+ 	Special Symbols
+		*	Unpacks iterables
+		**	Unpacks dictionaries
+		:=	Walrus operator (Python 3.8+)
+		->	Function return type hint
+		...	Placeholder (e.g., in NumPy)
